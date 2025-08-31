@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(C:\\Users\\User\\Desktop\\Готовые проекты/**)",
+      "Read(C:\\Users\\User\\Desktop\\Готовые проекты\\business-card-website/**)",
+      "Read(C:\\Users\\User\\Desktop\\Готовые проекты\\business-card-website/**)",
+      "Read(C:\\Users\\User\\Desktop\\Готовые проекты\\business-card-website/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
